@@ -1,0 +1,27 @@
+{
+  "name": "swt-contact-list",
+  "version": "1.0.0",
+  "description": "Overview\r =========",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "node test | tap-spec"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ballweera/swt-contact-list/issues"
+  },
+  "homepage": "https://github.com/ballweera/swt-contact-list#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "tape": "^4.8.0"
+  },
+  "devDependencies": {
+    "supertest": "^3.0.0"
+  }
+}
